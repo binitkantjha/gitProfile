@@ -8,7 +8,7 @@
 
 <br><hr>
 
-👨‍💻 I have worked with [ICICI Prudential](https://www.iciciprulife.com/) & [Edureka] (https://www.edureka.co/) 
+👨‍💻 I have worked with [ICICI Prudential](https://www.iciciprulife.com/) & [Edureka](https://www.edureka.co/) 
 
 📖 I’m currently learning **backend system design**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/binit-kant-jha-521a13151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/binit-kant-jha-521a13151/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/binit-kant-jha-521a13151/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/binit-kant-jha-521a13151/" height="30" width="40" /></a>
 </p>
 
 <h2>🚀 Brief About Me</h2>
@@ -28,7 +28,7 @@
 <p>✅ Expertise in a JavaScript tech stack and frameworks: jQuery, React, Next.js and good knowledge over Node.js, Express.js, MongoDB.</p>
 <p>✅ Passionate about building real-world products. Dedicated to staying up-to-date with the latest technologies and best practices in web development. </p>
 <p>✅ Always interested in collaborating on interesting projects. Feel free to reach out!</p>
-<p>✅ For more details please download my <a href="https://drive.google.com/file/d/1h1ZwMyY3k0spIu53T7ifFahrmf-0wpZE/view?usp=drive_link">resume</a>.</p>
+<p>✅ check my resume online  <a href="https://flowcv.com/resume/b6hldjl4up" target="_black">resume</a>.</p>
 
 <h2>What you can expect from me?</h2>
 <p>⚡ Develop highly interactive and user-friendly front-end experiences that enhance user engagement.</p>
@@ -72,14 +72,6 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-
-<!-- <p>Currently learning : </p>
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 
 <p>For documentating things: </p>
 
@@ -103,17 +95,10 @@
 
 <!-- animated snake -->
 
-![snake gif](https://github.com/binitkantjha/binitkantjha/blob/output/github-snake-dark.svg)
 
 <!-- github trophies -->
 
 
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/shrivastavpush?theme=dark&font=PT%20Sans%20Caption) -->
-
 <br>
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=binitkantjha" alt="binitkantjha" />
-    </a>
-</p>
+
 <br>
