@@ -1,30 +1,30 @@
-<h1 align="left">👋 Hello there, I'm <a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="_blank" style="color:#0077B5;">Pushpendra Shrivastav</a> 👋</h1>
+<h1 align="left">👋 Hello there, I'm <a href="https://www.linkedin.com/in/binit-kant-jha-521a13151/" target="_blank" style="color:#0077B5;">Binit kant jha</a> 👋</h1>
 
 <h3 align="left">A passionate Front End Developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"></h3>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shrivastavsumit)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=binitkantjha)
 
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAd/tenor.gif" width="400px" align="center"/>
 
 <br><hr>
 
-👨‍💻 I’m currently working with [ICICI Prudential](https://www.iciciprulife.com/)
+👨‍💻 I have worked with [ICICI Prudential](https://www.iciciprulife.com/) & [Edureka] (https://www.edureka.co/) 
 
-📖 I’m currently learning **NextJS**, **NodeJS**
+📖 I’m currently learning **backend system design**
 
-📃 I’m currently making a **Interview Preperation Guide** <a href="https://ivy-nymphea-ace.notion.site/Interview-Questions-Web-Development-196cc45e46258047b900e1923d9b3d41?pvs=74">Check it out</a>
+<!-- 📃 I’m currently making a **Interview Preperation Guide** <a href="https://ivy-nymphea-ace.notion.site/Interview-Questions-Web-Development-196cc45e46258047b900e1923d9b3d41?pvs=74">Check it out</a> -->
 
 🤝 I’m looking forward to collaborate and work upon **Building SaaS Products**
 
-📧 Reach out to me **shrivastavsumit15@gmail.com**
+📧 Reach out to me **binitkant@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshancodes/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/binit-kant-jha-521a13151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/binit-kant-jha-521a13151/" height="30" width="40" /></a>
 </p>
 
 <h2>🚀 Brief About Me</h2>
-<p>✅ 2.5+ years of experience delivering and leading the development of 3+ live applications for major companies, including ICICI Prudential Life Insurance. (Combines experience and leadership)</p>
+<p>✅ 4.5+ years of experience delivering and leading the development of 4+ live applications for major companies, including ICICI Prudential Life Insurance. (Combines experience and leadership)</p>
 <p>✅ Expertise in a JavaScript tech stack and frameworks: jQuery, React, Next.js and good knowledge over Node.js, Express.js, MongoDB.</p>
 <p>✅ Passionate about building real-world products. Dedicated to staying up-to-date with the latest technologies and best practices in web development. </p>
 <p>✅ Always interested in collaborating on interesting projects. Feel free to reach out!</p>
@@ -74,12 +74,12 @@
 
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
-<p>Currently learning : </p>
+<!-- <p>Currently learning : </p>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 
 <p>For documentating things: </p>
 
@@ -103,17 +103,17 @@
 
 <!-- animated snake -->
 
-![snake gif](https://github.com/shrivastavsumit/shrivastavsumit/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/binitkantjha/binitkantjha/blob/output/github-snake-dark.svg)
 
 <!-- github trophies -->
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/shrivastavpush?theme=dark&font=PT%20Sans%20Caption)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/shrivastavpush?theme=dark&font=PT%20Sans%20Caption) -->
 
 <br>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shrivastavpush" alt="shrivastavpush" />
+    <img src="https://github-profile-trophy.vercel.app/?username=binitkantjha" alt="binitkantjha" />
     </a>
 </p>
 <br>
